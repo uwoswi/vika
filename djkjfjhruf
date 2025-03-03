@@ -1,0 +1,42 @@
+[33mcommit daf72b5018e0bc30994932925680156e5c7c90e8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtask3[m[33m, [m[1;31morigin/task3[m[33m)[m
+Author: Emelancikova <emelancikovavika@gmail.com>
+Date:   Fri Feb 28 16:04:51 2025 +0300
+
+    Update
+
+[33mcommit ebe3e958a0390d80be7310c962c671cb1b637b9f[m[33m ([m[1;31morigin/task1[m[33m, [m[1;32mtask1[m[33m)[m
+Merge: 6447785 bb57ae6
+Author: Emelancikova <emelancikovavika@gmail.com>
+Date:   Mon Feb 24 16:42:28 2025 +0300
+
+    Разрешен конфликт при слиянии task2 в task1
+
+[33mcommit 6447785443782ec15ddf25fe01b5d2a47f284e22[m
+Author: Emelancikova <emelancikovavika@gmail.com>
+Date:   Mon Feb 24 16:41:34 2025 +0300
+
+    Добавлен четвертый коммит
+
+[33mcommit bb57ae6c7d1b224d5e34ad01321668e89ce48bb3[m[33m ([m[1;31morigin/task2[m[33m, [m[1;32mtask2[m[33m)[m
+Author: Emelancikova <emelancikovavika@gmail.com>
+Date:   Mon Feb 24 16:40:48 2025 +0300
+
+    Добавлен третий коммит
+
+[33mcommit fa4ff8a8d5271875d9ba46de6ac5d68ee22ff067[m
+Author: Emelancikova <emelancikovavika@gmail.com>
+Date:   Mon Feb 24 16:38:32 2025 +0300
+
+    Добавлен второй коммит
+
+[33mcommit a407142ce82d1093a4448a07d2ff8ac10f697850[m
+Author: Emelancikova <emelancikovavika@gmail.com>
+Date:   Mon Feb 24 16:37:42 2025 +0300
+
+    Добавлен первый коммит
+
+[33mcommit 75e6db55de0e064423532769bea1bde549e91cc2[m
+Author: tomina13 <tomina_vika02@mail.ru>
+Date:   Mon Feb 24 16:00:24 2025 +0300
+
+    add first half of labs
