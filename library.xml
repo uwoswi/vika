@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1">
+        <title>Сумерки</title>
+        <author>Стефани Майер</author>
+        <year>2005</year>
+        <genre>Романтическое фэнтези, юношеская литература</genre>
+        <price>30</price>
+    </book>
+    <book id="2">
+        <title>Новолуние</title>
+        <author>Стефани Майер</author>
+        <year>2006</year>
+        <genre>Романтическое фэнтези, юношеская литература</genre>
+        <price>30</price>
+    </book>
+    <book id="3">
+        <title>Солнце полуночи</title>
+        <author>Стефани Майер</author>
+        <year>2020</year>
+        <genre>Пересказ Сумерек от лица Эдварда Каллена</genre>
+        <price>35</price>
+    </book>
+</library>
